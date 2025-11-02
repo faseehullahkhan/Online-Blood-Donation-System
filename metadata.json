@@ -1,0 +1,5 @@
+{
+  "name": "Community Blood Donation Management System",
+  "description": "A web application to manage blood donations, connect donors with hospitals, and streamline the process of fulfilling blood requests during emergencies. It features separate dashboards for donors, hospitals, and administrators.",
+  "requestFramePermissions": []
+}
